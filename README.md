@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/99727402/165203792-315f0134-8c43-41c3-883a-446a8d626352.gif" alt="Hi there, I'm Gagan Rai" width="600"/>
-  <h1 align="center">🐍 Gagan Rai | Advanced Python Developer</h1>
-  <h3 align="center">Backend Specialist | Data Engineer | Full-Stack Enthusiast from India 🇮🇳</h3>
+  <h1 align="center">🐍 Gagan Rai | Python Developer</h1>
+  <h3 align="center">Backend | Full-Stack Enthusiast from India 🇮🇳</h3>
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 I am a results-driven **Python Developer** with a strong foundation in designing, developing, and deploying robust backend systems and data pipelines. My expertise centers on leveraging modern Python frameworks (**Django, Flask**) to create scalable and efficient solutions. I'm passionate about **clean code architecture**, **DevOps practices**, and continuously exploring cutting-edge technologies.
 
-* 🔭 I'm currently focused on **Data Engineering projects** and optimizing serverless functions.
+* 🔭 I'm currently focused on **Python Automation** and optimizing serverless functions.
 * 🌱 Always learning advanced concepts in **System Design** and **Cloud Infrastructure (AWS/Azure)**.
 * 🤝 Looking to collaborate on **Open Source Python libraries** or **AI/ML projects**.
 * 💬 Ask me about **API design**, **database optimization**, or **Python best practices**.
