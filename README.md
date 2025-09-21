@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/99727402/165203792-315f0134-8c43-41c3-883a-446a8d626352.gif" alt="Hi there, I'm Gagan Rai" width="600"/>
   <h1 align="center">🐍 Gagan Rai | Python Developer</h1>
-  <h3 align="center">Backend | Full-Stack Enthusiast from India 🇮🇳</h3>
+  <h3 align="center">Automation | Backend | Full-Stack Enthusiast from India 🇮🇳</h3>
 </div>
 
 ---
